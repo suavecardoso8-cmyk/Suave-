@@ -1,0 +1,7 @@
+{
+  "name": "EduTutor AI",
+  "description": "Um tutor digital inteligente que explica matérias escolares de forma simples e adaptada para cada nível de ensino.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
